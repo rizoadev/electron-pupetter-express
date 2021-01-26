@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "electron": "^11.2.1",
+    "express": "^4.17.1",
+    "puppeteer-core": "^5.5.0",
+    "puppeteer-in-electron": "^3.0.3"
+  }
+}
